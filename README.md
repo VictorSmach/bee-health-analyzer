@@ -1,7 +1,5 @@
 
-## Bee-Hive-Health-Analyzer
 
-Live Web App: http://bee.test.woza.work/
 
 <br>
 
@@ -24,15 +22,6 @@ The app outputs 6 possible bee hive conditions:<br>
 
 Model F1 score: 0.94
 
-The process used to build and train the model is described in this Kaggle kernel:<br>
-https://www.kaggle.com/vbookshelf/bee-hive-health-analyzer-web-app
-
-
-The dataset used for the training can be found here:<BR>
-https://www.kaggle.com/jenny18/honey-bee-annotated-images
-
 All javascript, html and css files used to create the web app are available in this repo.
-
-
 
 # bee-health-analyzer
